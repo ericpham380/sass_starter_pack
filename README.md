@@ -1,2 +1,2 @@
-# sass_starter_pack
-SASS Starter Pack
+# SASS Starter Pack
+Learn SASS using GULP
